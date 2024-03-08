@@ -6,8 +6,8 @@ export const AvatarContainer = styled(Avatar.Root, {
   display: 'inline-block',
   overflow: 'hidden',
   userSelect: 'none',
-  width: '$12',
-  height: '$12',
+  width: '$16',
+  height: '$16',
 })
 
 export const AvatarImage = styled(Avatar.Image, {
