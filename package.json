@@ -6,5 +6,8 @@
   "scripts": {
     "dev": "turbo run dev --parallel",
     "build": "turbo run build"
+  },
+  "dependencies": {
+    "turbo": "^1.12.5"
   }
 }
